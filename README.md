@@ -6,8 +6,10 @@
 - 📚 I'm currently learning everything ✨
 - 🎲 Fun fact: I love listening to music when I'm at work and when I'm stressed 😥
 
+## My project
+- [trello-app](https://github.com/Fiddy2112/mern-trello-app)
+
 ### Connect with me:
 
 <!-- -I'll fix it soon. 😓😓😓 -->
 -I'll fix it soon.(beta) 😓😓😓
--[trello-app](https://github.com/Fiddy2112/mern-trello-app)
