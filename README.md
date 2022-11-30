@@ -2,7 +2,7 @@
 
 ## I'm a Developer and sometimes is a designer, gamer, ...
 
-- 💻 I'm a currently working on a <img src="https://o.remove.bg/downloads/483a7071-f686-44f3-ac38-9f20e051e198/81-810381_visual-studio-code-visual-studio-code-icon-png-1600888548-removebg-preview.png" style=" width:30px ; height:20px "  >
+- 💻 I'm a currently working on a <img src="https://o.remove.bg/downloads/483a7071-f686-44f3-ac38-9f20e051e198/81-810381_visual-studio-code-visual-studio-code-icon-png-1600888548-removebg-preview.png" style=" width:20px ; height:20px "  >
 - 📚 I'm currently learning everything ✨
 - 🎲 Fun fact: I love listening to music when I'm at work and when I'm stressed 😥
 
