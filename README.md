@@ -2,7 +2,7 @@
 
 ## I'm a Developer and sometimes is a designer, gamer, ...
 
-- 💻 I'm a currently working on a 💻 [website]!
+- 💻 I'm a currently working on a 💻 ![visual studio](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fget.wallhere.com%2Fphoto%2FMicrosoft-Visual-Studio-code-web-development-1467873.jpg&f=1&nofb=1&ipt=c9b54d98a39e766a7fe9b28f3904fa76c10819adb9ce1c142e662ba39ccfb075&ipo=images "visual studio code")!
 - 📚 I'm currently learning everything ✨
 - 🎲 Fun fact: I love listening to music when I'm at work and when I'm stressed 😥
 
