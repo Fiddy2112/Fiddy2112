@@ -13,7 +13,9 @@
 - [demo-football-euro-2020](https://github.com/Fiddy2112/demo-football-euro2020)
 - [nodeJs-Blog](https://github.com/Fiddy2112/nodejs_blog)
 - [chat-real-time-beta](https://github.com/Fiddy2112/chat-real-time)
-- [animation-car](https://github.com/Fiddy2112/animation_car)
+- [upload-and-share-img](https://github.com/Fiddy2112/upload_and_share_img)
+- [sign_name_and_message](https://github.com/Fiddy2112/sign_name_and_message)
+- [staking](https://github.com/Fiddy2112/staking)
 
 ### Connect with me:
 
