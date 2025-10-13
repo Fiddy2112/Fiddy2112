@@ -7,7 +7,7 @@
 ## 👤 About Me
 
 - “I don't fix bugs — I just make reality a little different.”  
-- 💻 I'm a currently working on a [visual studio code](https://code.visualstudio.com/) & [cursor](https://cursor.com/)
+- 💻 I'm a currently working on a [Visual Studio Code](https://code.visualstudio.com/) & [Cursor](https://cursor.com/)
 - 🎃 Like to debug deep like exploring dungeons 
 - 📚 I'm currently learning everything ✨
 - 🎲 Fun fact: I love listening to music when I'm at work and when I'm stressed 😅
@@ -45,7 +45,7 @@ and more
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Fiddy2112/Fiddy2112/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kaiyuki0/kaiyuki0/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
