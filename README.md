@@ -1,7 +1,7 @@
 
 ![Banner](https://images.unsplash.com/photo-1690585703267-de31ea667ef0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmFubmVyJTIwY29kZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=1200&h=150)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Fiddy!;I+write+code+and+sometimes+it+works.;Fullstack+%7C+Web3+%7C+Typescript+Enjoyer;Debugging+is+my+cardio.;Let's+build+fun+stuff+together!+🎉)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Fiddy!;I+write+code+and+—+most+of+the+time+it+works+😎.;Frontend+%7C+Backend+%7C+Web3+%7C+Typescript+Enjoyer;Debugging+is+my+cardio.;Let's+build+fun+stuff+together!+🎉)
 ---
 
 ## 👤 About Me
@@ -12,8 +12,10 @@
 - 📚 I'm currently learning everything ✨
 - 🎲 Fun fact: I love listening to music when I'm at work and when I'm stressed 😅
 - 💡 Always exploring new tech
-- 🧩 Fullstack/Web3 dev who enjoys building weird, fun, and useful things
+- 🧩 Engineer/Web2/Web3 dev who enjoys building weird, fun, and useful things
 - 🎯 Coding philosophy: "Works on my machine" is a feature, not a bug.
+- 🌌 Motto: Code, sleep, debug, repeat.
+- 🛠 Favorite stack: React + TypeScript + Vibes + ...
 
 ---
 
@@ -57,4 +59,4 @@ and more
 
 ---
 
-> “I don’t fix bugs — I shift reality.”
+> “I don’t fix bugs — I refactor reality.”
