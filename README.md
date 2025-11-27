@@ -38,6 +38,12 @@ and more
 
 ---
 
+## Demo Project
+
+[QRpay](https://suiqrpay.netlify.app/)
+
+---
+
 ## 📊 GitHub Stats
 
 ![Fiddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fiddy2112&show_icons=true&theme=tokyonight&count_private=true)
